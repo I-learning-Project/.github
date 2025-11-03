@@ -1,4 +1,4 @@
-# 🎯 Projet CTF - BAC PRO CIEL
+# 🎯 Projet I-Learning
 
 ## 📌 Présentation
 Bienvenue sur notre projet de Capture The Flag (CTF) ! Ce projet a été conçu et développé par deux lycéens dans le cadre de nos études au **Lycée Professionnel Louise Michel**, en **BAC PRO CIEL (Cybersécurité, Informatique et Réseaux, Électronique)**.
@@ -41,6 +41,6 @@ Notre objectif est de proposer un CTF éducatif et accessible, permettant aux pa
 ---
 
 ## 📢 Nous Contacter
-📧 Email : I-learning16@proton.me
+📧 Email : contact@i-learning-project.fr
 
 📣 **Rejoignez-nous et testez vos compétences en cybersécurité !** 🏴‍☠️
