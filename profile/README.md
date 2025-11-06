@@ -59,7 +59,7 @@ Chaque challenge permet de découvrir un concept, une vulnérabilité ou une tec
 
 ### Objectifs
 - 🏆 Concevoir une plateforme de CTF interactive et éducative  
-- 🔐 Proposer des challenges variés : **Web, Crypto, OSINT, Exploitation, Reverse Engineering**  
+- 🔐 Proposer des challenges variés : **Web, Cryptanalyse, Codage et Numération, Craking**  
 - 🧠 Former les débutants aux bonnes pratiques en cybersécurité  
 - ⚙️ Encourager l’apprentissage par la pratique  
 
@@ -70,8 +70,7 @@ Chaque challenge permet de découvrir un concept, une vulnérabilité ou une tec
 
 - ✅ Interface web intuitive et moderne  
 - 🧩 Challenges de plusieurs niveaux de difficulté  
-- 👥 Mode **solo** ou **équipe**  
-- 📊 Classement global et individuel  
+- 📊 Classement global  
 - 🧭 Documentation et indices intégrés  
 - 🧱 Système de validation automatique des flags  
 - 🔒 Séparation front-end / back-end pour la sécurité  
